@@ -29,7 +29,7 @@
    
     * Note: runner class not extends or implements any class and interface, but in runner class must have a main static class*
   
- * data.txt: list of students receiving encourage learning scholarships in HCMUTE from 2018 to 2020.
+ * data.txt: list of student receiving encourage learning scholarships in HCMUTE from 2018 to 2020.
 
 
 ## ***INSTALLATION***
