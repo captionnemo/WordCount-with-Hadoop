@@ -1,4 +1,4 @@
-# ***MAPREDUCE DEMO IN HADOOP: WORKCOUNT PROJECT***
+# ***hadoop 2.7.7: WORKCOUNT PROJECT***
 
 ## ***INTRODUCTION***
 * This project include:
