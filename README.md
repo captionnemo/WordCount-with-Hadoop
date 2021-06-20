@@ -61,4 +61,4 @@
   * Step 4: Show result
     * *hdfs dfs -cat output/part-00000*
 * Instructional video: [Demo WordCount with Hadoop](youtu.be/dN8gNwBmy34)
-Good luck to you !!!
+## Good luck to you !!!
